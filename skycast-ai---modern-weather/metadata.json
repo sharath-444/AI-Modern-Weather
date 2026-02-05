@@ -1,7 +1,0 @@
-{
-  "name": "SkyCast AI - Modern Weather",
-  "description": "A visually stunning, AI-powered weather dashboard featuring real-time search, interactive forecasts, and dynamic weather-themed backgrounds.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
