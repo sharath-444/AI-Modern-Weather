@@ -52,4 +52,3 @@ Unlike standard weather apps that hit a REST API, SkyCast AI uses a LLM-based re
 
 ---
 
-Built for the future by **Sharath**.
